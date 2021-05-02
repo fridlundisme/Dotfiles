@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/joakimf/.config/fish'
+let g:netrw_dirhist_0='/home/fridlund/kth/adk-dd2350-2020/labs/lab3/src/step2'
+let g:netrw_dirhist_9='/home/fridlund/kth/adk-dd2350-2020/labs/lab3/src'
+let g:netrw_dirhist_8='/home/fridlund/kth/adk-dd2350-2020/labs/lab3'
+let g:netrw_dirhist_7='/home/fridlund/kth/adk-dd2350-2020/labs'
+let g:netrw_dirhist_6='/home/fridlund/kth/adk-dd2350-2020/labs/lab2'
+let g:netrw_dirhist_5='/home/fridlund/kth/adk-dd2350-2020/labs'
+let g:netrw_dirhist_4='/home/fridlund/kth/adk-dd2350-2020'
+let g:netrw_dirhist_3='/home/fridlund/kth'
+let g:netrw_dirhist_2='/home/fridlund/kth/adk-dd2350-2020/labs/lab3/src/step2'
